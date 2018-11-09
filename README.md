@@ -1,2 +1,2 @@
 # mb-b
-GitHub Pages
+GitHub Pages - for MarysBarn.com
